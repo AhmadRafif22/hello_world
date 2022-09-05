@@ -1,5 +1,5 @@
 # Penugasan Pertama Flutter
 
-Nama  : Ahmad Rafif Alaudin
-Nim   : 2041720230
-Kelas : 3G
+Nama  : Ahmad Rafif Alaudin <br>
+Nim   : 2041720230 <br>
+Kelas : 3G <br>
